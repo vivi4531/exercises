@@ -1,5 +1,5 @@
 "use strict";
-y= 14; 
+
 
 const bool = true; 
 const num = 41; 
