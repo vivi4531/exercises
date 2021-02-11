@@ -51,5 +51,3 @@ const person2 = { firstName: "Vivi", age: 27, student: true};
 person1 = person2; 
 //Error: person1 is a const, so it can not be reassigned
 //You can not change the object itself but you can change the properties
-
-//MUTABILITY 
